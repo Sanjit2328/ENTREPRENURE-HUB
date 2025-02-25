@@ -134,10 +134,11 @@ Entrepreneur Hub aim is to develop an AI-powered web platform that streamlines t
 ## OUTPUT:
 
 *HOME SCREEN PAGE*
-![image](https://github.com/user-attachments/assets/60b5c38d-13d7-477c-809b-68c3b2b68d35)
+![image](https://github.com/user-attachments/assets/b4df21c4-b1a6-4d0d-94d8-8692f9dcb860)
+![image](https://github.com/user-attachments/assets/336d850c-b794-4437-a344-265158c9d47d)
 
 *DASHBOARD PAGE*
-![image](https://github.com/user-attachments/assets/f45b6996-6bed-4069-a45a-42f415354d50)
+![image](https://github.com/user-attachments/assets/96743d2b-96ed-43dd-8e71-8ecfb7085564)
 
 *CARBON CALCULATOR PAGE*
 ![image](https://github.com/user-attachments/assets/dc2a5c2c-fb8d-4aa0-8089-2d0debe1e1e8)
