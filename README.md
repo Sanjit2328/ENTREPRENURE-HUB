@@ -18,8 +18,7 @@
 ![WhatsApp Image 2025-01-20 at 19 59 26_6fc8d914](https://github.com/user-attachments/assets/3fa47f9f-d1b9-442a-b4ed-fc28d71f3c5f)
 
 ## CONCEPT MAP:
-
-<img width="3436" alt="Concept_map_(Community) 1" src="https://github.com/user-attachments/assets/a90219e0-69ac-436e-a9b8-ece0a039bee4" />
+![ehub 1](https://github.com/user-attachments/assets/7216cf4d-4308-48af-a966-e496a9e6ccf8)
 
 
 ## TECH STACK:
