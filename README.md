@@ -1,4 +1,3 @@
-# BROSKIES-78-TECHPRENEUR
 # ENTREPRENEUR HUB
 ## WEB APP LINK:https://entrepreneur-maximizer.lovable.app/
 ## BRIEF INTRO:
@@ -139,18 +138,3 @@ Entrepreneur Hub aim is to develop an AI-powered web platform that streamlines t
 
 *DASHBOARD PAGE*
 ![image](https://github.com/user-attachments/assets/96743d2b-96ed-43dd-8e71-8ecfb7085564)
-
-*CARBON CALCULATOR PAGE*
-![image](https://github.com/user-attachments/assets/dc2a5c2c-fb8d-4aa0-8089-2d0debe1e1e8)
-
-*ECO TIPS PAGE*
-![image](https://github.com/user-attachments/assets/f50476b4-a981-43e0-955c-2a8fd1e95220)
-
-*COMMUNITY PAGE*
-![image](https://github.com/user-attachments/assets/d19eb88a-9ae2-41e3-b36e-1257490ef60a)
-
-*ECO SHOP PAGE*
-![image](https://github.com/user-attachments/assets/0f1d574c-954f-4127-bd4b-1667d920ddfc)
-
-*PROFILE PAGE*
-![image](https://github.com/user-attachments/assets/382ee9c8-6753-4b1c-92af-a395a2cc3a64)
