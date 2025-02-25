@@ -11,6 +11,11 @@
 *High Failure Rates & Slow Growth:* 
       Due to a lack of streamlined support and resources, startups face high failure rates and slower business development, limiting their potential for success.
 
+## WORKFLOW:
+
+![file_2025-02-25_16 50 58](https://github.com/user-attachments/assets/e3fa23d4-9203-4c75-9629-7fa7f7f2742f)
+
+
 ## CONCEPT MAP:
 ![ehub 1](https://github.com/user-attachments/assets/7216cf4d-4308-48af-a966-e496a9e6ccf8)
 
