@@ -131,7 +131,6 @@ If you need more advanced CI/CD workflows (e.g., testing, build steps), GitHub A
 ## Novelty:
 
 ## Comprehensive Platform
-Eco-Sustain is more than just a tool to measure environmental impact; it integrates multiple aspects of sustainability into one platform, offering a holistic experience. This combination serves various needs:
 
 *Automates Business Planning:* 
 Streamlines Decision Making - Offers data-driven recommendations and scenario analysis to help entrepreneurs make informed, strategic decisions quickly.
