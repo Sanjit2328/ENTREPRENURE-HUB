@@ -224,5 +224,12 @@ Entrepreneur Hub aim is to develop an AI-powered web platform that streamlines t
 *AI BUSINESS ASSISTANT PAGE*
 ![Screenshot 2025-02-26 112713](https://github.com/user-attachments/assets/a2b1ecd7-e498-4b9e-b890-8dca4624f7eb)
 
+*PROFILE PAGE*
+![image](https://github.com/user-attachments/assets/a8f14442-2545-42e8-b764-506552a77893)
+
+*SETTINGS PAGE*
+![image](https://github.com/user-attachments/assets/08c5ee6c-99fd-41ac-8dfa-2663e4f51c20)
+
+
 
 
