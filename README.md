@@ -1,7 +1,6 @@
 # BROSKIES-78-TECHPRENEUR
 # ENTREPRENEUR HUB
-## WEB APP LINK:https://p8ucojofojojfmj4.vercel.app/
-## MODEL LINK:https://colab.research.google.com/drive/14WuPgkyup8REHOMs7gGyCr2-fN0aXTHI?usp=sharing
+## WEB APP LINK:[https://p8ucojofojojfmj4.vercel.app/](https://entrepreneur-maximizer-54.lovable.app/)
 ## BRIEF INTRO:
 *Entrepreneur Hub*: A web platform integrating AI-driven business planning, funding matchmaking, market insights, legal automation, and growth strategies.
 
@@ -206,11 +205,6 @@ Promotes a shift towards environmentally responsible consumption.
 
 ## Vision:
 Entrepreneur Hub aim is to develop an AI-powered web platform that streamlines the entrepreneurial journey by automating business planning, funding matchmaking, market research, legal compliance, and growth strategies, enabling startups to succeed faster and more efficiently.
-
-## CARBON CALCULATOR MODEL OUTPUT:
-
-![image](https://github.com/user-attachments/assets/1af59ce4-1a1c-4001-a17c-6c754aec1ba9)
-![image](https://github.com/user-attachments/assets/e54030cd-65be-47b7-a34e-1fdae9a28c3f)
 
 ## OUTPUT:
 
